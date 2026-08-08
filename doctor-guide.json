@@ -1,0 +1,25 @@
+{
+  "guidance": [
+    {
+      "concern": "General health concern",
+      "professional": "Primary care doctor"
+    },
+    {
+      "concern": "Skin-related concern",
+      "professional": "Dermatologist"
+    },
+    {
+      "concern": "Dental concern",
+      "professional": "Dentist"
+    },
+    {
+      "concern": "Eye-related concern",
+      "professional": "Eye-care professional"
+    },
+    {
+      "concern": "Mental and emotional wellbeing",
+      "professional": "Qualified mental health professional"
+    }
+  ],
+  "note": "This guidance is general and should not replace professional evaluation."
+}
