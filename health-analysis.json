@@ -1,0 +1,37 @@
+{
+  "prompt": "Analyze the user's health concern using the information provided. Do not diagnose the condition. Explain the concern in simple language and identify the appropriate level of urgency.",
+  "outputSections": [
+    "Understand My Concern",
+    "Possible General Reasons",
+    "Urgency Level",
+    "My Next Steps",
+    "Who Should I Consult?",
+    "Warning Signs",
+    "Questions for My Doctor",
+    "Health Information Checklist",
+    "Your Right Next Step"
+  ],
+  "urgencyLevels": {
+    "low": "Self-care and monitor",
+    "medium": "Consult a healthcare professional soon",
+    "high": "Seek urgent medical attention"
+  }
+}{
+  "prompt": "Analyze the user's health concern using the information provided. Do not diagnose the condition. Explain the concern in simple language and identify the appropriate level of urgency.",
+  "outputSections": [
+    "Understand My Concern",
+    "Possible General Reasons",
+    "Urgency Level",
+    "My Next Steps",
+    "Who Should I Consult?",
+    "Warning Signs",
+    "Questions for My Doctor",
+    "Health Information Checklist",
+    "Your Right Next Step"
+  ],
+  "urgencyLevels": {
+    "low": "Self-care and monitor",
+    "medium": "Consult a healthcare professional soon",
+    "high": "Seek urgent medical attention"
+  }
+}
