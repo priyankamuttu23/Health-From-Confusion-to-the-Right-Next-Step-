@@ -1,0 +1,43 @@
+{
+  "format": {
+    "title": "HealthPath AI",
+    "sections": [
+      {
+        "heading": "Understand My Concern",
+        "content": "Summarize the user's concern."
+      },
+      {
+        "heading": "Possible General Reasons",
+        "content": "Explain common possibilities without diagnosing."
+      },
+      {
+        "heading": "Urgency Level",
+        "content": "Classify the concern as low, medium, or high urgency."
+      },
+      {
+        "heading": "My Next Steps",
+        "content": "Provide safe and practical next steps."
+      },
+      {
+        "heading": "Who Should I Consult?",
+        "content": "Suggest an appropriate healthcare professional when relevant."
+      },
+      {
+        "heading": "Warning Signs",
+        "content": "List important signs that require prompt medical attention."
+      },
+      {
+        "heading": "Questions for My Doctor",
+        "content": "Generate useful questions for a healthcare consultation."
+      },
+      {
+        "heading": "Health Information Checklist",
+        "content": "List information the user can prepare for a healthcare professional."
+      },
+      {
+        "heading": "Your Right Next Step",
+        "content": "Give one clear, appropriate next action."
+      }
+    ]
+  }
+}
