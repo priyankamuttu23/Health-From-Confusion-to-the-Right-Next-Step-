@@ -1,0 +1,22 @@
+{
+  "levels": [
+    {
+      "level": "Green",
+      "name": "Monitor and Self-Care",
+      "description": "The concern does not appear to require immediate medical attention based on the information provided.",
+      "action": "Monitor the situation and consider routine professional advice if it continues or worsens."
+    },
+    {
+      "level": "Yellow",
+      "name": "Consult Soon",
+      "description": "The concern may benefit from evaluation by a healthcare professional.",
+      "action": "Arrange a healthcare consultation, especially if symptoms persist or worsen."
+    },
+    {
+      "level": "Red",
+      "name": "Urgent Medical Attention",
+      "description": "The information may indicate a situation requiring prompt professional evaluation.",
+      "action": "Seek urgent medical assistance."
+    }
+  ]
+}
