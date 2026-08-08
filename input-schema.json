@@ -1,0 +1,34 @@
+{
+  "inputs": [
+    {
+      "name": "ageGroup",
+      "type": "text",
+      "label": "Age Group",
+      "placeholder": "Example: Teenager, Young Adult, Adult"
+    },
+    {
+      "name": "healthConcern",
+      "type": "text",
+      "label": "What is your health concern?",
+      "placeholder": "Describe your main concern"
+    },
+    {
+      "name": "symptoms",
+      "type": "text",
+      "label": "Symptoms",
+      "placeholder": "Describe your symptoms"
+    },
+    {
+      "name": "duration",
+      "type": "text",
+      "label": "How long have you experienced this?",
+      "placeholder": "Example: 2 days, 1 week"
+    },
+    {
+      "name": "additionalInformation",
+      "type": "text",
+      "label": "Additional Information",
+      "placeholder": "Add any relevant information"
+    }
+  ]
+}
